@@ -979,11 +979,11 @@ video {
 }
 
 .bg-\[url\(\'\/images\/image\\\(1\\\)\.png\'\)\] {
-  background-image: url('/images/image\(1\).png');
+  background-image: url('./images/image\(1\).png');
 }
 
 .bg-\[url\(\'\/images\/image_bg\.png\'\)\] {
-  background-image: url('/images/image_bg.png');
+  background-image: url('./images/image_bg.png');
 }
 
 .bg-no-repeat {
